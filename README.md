@@ -1,6 +1,7 @@
 # bioinformatic-learning
 
 For bioinformatics learning 2024 spring
+
 **Learing plan for bioinformatic course**
 - Follow the whole course and improve the ability of using Linux, R and Python. 
 - Try to discuss with others, learn from peers and find more learning source
