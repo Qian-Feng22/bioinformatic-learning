@@ -16,4 +16,8 @@ For bioinformatics learning 2024 spring
 - R, good at plot and analyze datas.
 - Python, good at both sides but not an expert in both fields.
 
- The difference between **alogrithm** and **model** is as
+ The difference between **alogrithm** and **model** is as follows
+- **Alogrithm**, is a standard step by step procedure and rules to solve specific problems or tasks.
+- **Model**, is a representation or approximation of the underlying structure of the data and the result of applying an algorithm to a set of data
+
+**update on 3.3.2024**
