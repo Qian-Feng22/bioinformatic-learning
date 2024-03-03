@@ -1,5 +1,5 @@
 # bioinformatic-learning
-======
+
 For bioinformatics learning 2024 spring
 **Learing plan for bioinformatic course**
 - Follow the whole course and improve the ability of using Linux, R and Python. 
@@ -10,6 +10,6 @@ For bioinformatics learning 2024 spring
 **Note for the first class**
 Five top rank questions released in Science, among which "Why humans have so few genes?" is related to what we do today.
 - RNA types, including coding and noncoding RNA. The noncoding RNA maybe the key to answer to this question.
-Linux bash, good at deal with large quantity of files.
-R, good at plot and analyze datas.
-Python, good at both sides but not an expert in both fields.
+- Linux bash, good at deal with large quantity of files.
+- R, good at plot and analyze datas.
+- Python, good at both sides but not an expert in both fields.
