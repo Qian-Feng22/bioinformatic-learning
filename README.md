@@ -15,3 +15,5 @@ For bioinformatics learning 2024 spring
 - Linux bash, good at deal with large quantity of files.
 - R, good at plot and analyze datas.
 - Python, good at both sides but not an expert in both fields.
+
+ The difference between **alogrithm** and **model** is as
