@@ -20,4 +20,4 @@ For bioinformatics learning 2024 spring
 - **Alogrithm**, is a standard step by step procedure and rules to solve specific problems or tasks.
 - **Model**, is a representation or approximation of the underlying structure of the data and the result of applying an algorithm to a set of data
 
-**update on 3.3.2024**
+*update on 3.3.2024*
